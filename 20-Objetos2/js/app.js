@@ -17,7 +17,8 @@ var aluno = [
     { nome: 'Ana', id: 114555, endereco: new Endereco({ logradouro: 'Av belezura', n: 41, estado: 'SP', cep: '33333-33' }) }
 ]
 
-
+console.log(Endereco);
+console.log(aluno);
 
 var msg = ''
 
